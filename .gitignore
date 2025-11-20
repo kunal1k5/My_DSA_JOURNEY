@@ -1,0 +1,13 @@
+# Ignore everything
+*
+*/
+
+# But not the array folder
+!array/
+!array/**
+
+# Don't ignore .gitignore itself
+!.gitignore
+
+# Ignore compiled files
+*.class

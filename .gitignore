@@ -6,6 +6,10 @@
 !array/
 !array/**
 
+# But not the arrays_2d folder
+!arrays_2d/
+!arrays_2d/**
+
 # Don't ignore .gitignore itself
 !.gitignore
 

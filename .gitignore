@@ -10,6 +10,10 @@
 !arrays_2d/
 !arrays_2d/**
 
+# But not the baisc_string folder
+!baisc_string/
+!baisc_string/**
+
 # Don't ignore .gitignore itself
 !.gitignore
 

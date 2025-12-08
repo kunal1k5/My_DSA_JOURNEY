@@ -18,6 +18,10 @@
 !code_forces/
 !code_forces/**
 
+# But not the leet_code folder
+!leet_code/
+!leet_code/**
+
 # Don't ignore .gitignore itself
 !.gitignore
 
